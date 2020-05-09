@@ -31,7 +31,6 @@ $(document).ready(function(){
 
 					$(slider_id).find(".image_slider_right").show();
 
-				//	$(slider_id).find(".image_slider_11").show();
 
 					// pager elemente tıklanınca gerçekleşecek olaylar
 					$(slider_id).on("click",".image_slider_pager_element",function(){
@@ -41,16 +40,6 @@ $(document).ready(function(){
 
 					});
 					// pager elemente tıklanınca gerçekleşecek olaylar
-
-		/*			$(slider_id).on("click",".image",function(){
-
-						slider_screen--;
-						slider_screen = animate_image_slider(slider_id,slider_screen,element_count,element_width);
-
-					}); */
-
-
-
 
 
 					// sol oka tıklanınca gerçekleşecek olaylar

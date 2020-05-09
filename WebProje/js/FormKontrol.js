@@ -4,9 +4,9 @@ function GirisKontrol() {
         alert("Hoşgeldiniz g191210381")
     }
     else {
-        alert("Kullanıcı adı ve şifre uyuşmuyor")
+        alert("Kullanıcı Adı ve Şifre uyuşmuyor. Tekrar deneyiniz!")
     }
-    
+
 };
 function YorumKontrol(frm) {
     var adi = frm.adi.value;

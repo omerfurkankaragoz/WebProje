@@ -152,14 +152,3 @@
 .image_slider_pager .image_slider_pager_element:last-child{
   margin-right: 0;
 }
-.artan {
-  background: url(yukari.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-}
-
-.azalan {
-  background: url(asagi.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-}
