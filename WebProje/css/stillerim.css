@@ -1,4 +1,4 @@
-.HaberDuyuru-card {
+.Cv-card {
     position: relative;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -7,8 +7,10 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
+    line-height: 30px;
     min-width: 0;
-    word-wrap: break-word;
+    max-width: 630px;
+;    word-wrap: break-word;
     background-color:DarkKhaki;
     background-clip: border-box;
     border: 1px solid rgba(0, 0, 0, 0.125);
